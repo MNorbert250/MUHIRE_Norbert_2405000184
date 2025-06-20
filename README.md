@@ -8,3 +8,4 @@ Here this is a link for my first Assignement on Php:  https://docs.google.com/do
 Here there is a link for my database assignment: https://docs.google.com/document/d/1fqJIGBqNb9DL-FWYkxhMZkX1co-pOGgEgpWu9x18JBo/edit?usp=sharing
 
 
+Assigment for Calculator: https://docs.google.com/document/d/1h7N3OXeI49uHKc83-3gA5g4mRSEfZ-V_QS3BnBJXm7k/edit?usp=sharing
