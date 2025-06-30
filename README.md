@@ -9,3 +9,6 @@ Here there is a link for my database assignment: https://docs.google.com/documen
 
 
 Assigment for Calculator: https://docs.google.com/document/d/1h7N3OXeI49uHKc83-3gA5g4mRSEfZ-V_QS3BnBJXm7k/edit?usp=sharing
+
+
+Assignment of Django : https://docs.google.com/document/d/1jM1sobVJXYwFlyUTN2mnZZdAuxvH9IHTdUMJMxXJqLI/edit?usp=sharing
